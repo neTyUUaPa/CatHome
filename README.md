@@ -1,0 +1,1 @@
+A modular project based on the Arduino ide for esp32, created to control a smart home for cats, using the following sensors: temperature sensor, ultrasonic sensors, a camera connected to raspberry with yolo for cat recognition. Due to its modularity, the code can easily be supplemented with new sensors and devices.
